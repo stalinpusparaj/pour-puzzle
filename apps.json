@@ -1,0 +1,14 @@
+[
+  {
+    "id": "com.stalinpusparaj.lightuptheskies",
+    "name": "Light Up the Skies: Diwali",
+    "blurb": "Diwali fireworks over the Taj Mahal, with wishes written in the sky.",
+    "icon": "https://stalinpusparaj.github.io/pour-puzzle/apps/lightuptheskies.png"
+  },
+  {
+    "id": "com.stalinpusparaj.pourpuzzle",
+    "name": "Pour Puzzle",
+    "blurb": "Sort every colour in real 3D liquid.",
+    "icon": ""
+  }
+]
